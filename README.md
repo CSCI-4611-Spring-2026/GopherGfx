@@ -1,4 +1,4 @@
-# GopherGfx for Prof. Keefe's CSci-4611 Course 
+# GopherGfx for Prof. Orban's CSci-4611 Course 
 This version of GopherGfx is includes some small modifications to best support the learning objectives in Prof. Orban's CSci-4611 course sections.  
 
 You can view the sourcecode of previous version and auto-generated documentation online:
